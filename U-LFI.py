@@ -23,7 +23,8 @@ try:
     import sys
 except:
     print("Install BS4 Please.!")
-
+    sys.exit(0)
+    
 path = '../../../../../../../../../../../../../../etc/passwd'
 path2 = "../../../../../../../../../../../../../../etc/passwd%00"
 
