@@ -12,5 +12,6 @@ Successful exploitation of a file include vulnerability will result in remote co
 
 So to check your website for this vulnerability I made this simple script with Pyhthon3.
 Module required for running the script is #BS4. To install the module-
-Simply type this command- pip install bs4 or pip install python-bs4
+Simply type this command- 
+# apt-get install python3-bs4
 or you can download it from this link- https://pypi.python.org/pypi/beautifulsoup4  MAKE SURE TO DOWNLOAF FOR PYTHON 3.
